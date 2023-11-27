@@ -29,3 +29,8 @@ III. Step to run on a local machine **Step 1: Set up database (In my case, I use
 
 Relational Schema:
 ![image](https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/02bbc742-8ac9-4228-a231-d08422c5af5c)
+
+**Step 2: Clone the project from my github and run the Spring boot app (the database need to have some of the product included)**
+**Demo App**
+Uploading bandicam 2023-11-27 17-53-57-970.mp4…
+

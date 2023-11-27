@@ -1,4 +1,3 @@
-![image](https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/93e5695f-1cb4-4815-9316-5b36ae59cf81)![image](https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/fa35c19d-e3f9-4077-834c-63b4ca9e2b73)# MidtermJavaTechnology
 I. Brief explanation
 This Spring Boot application incorporates various software development principles, patterns, and practices, exemplifying:
 

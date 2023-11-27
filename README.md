@@ -1,5 +1,5 @@
 
-I. Brief explanation
+I. Brief explanation <br>
 This Spring Boot application incorporates various software development principles, patterns, and practices, exemplifying:
 
 1/ Model-View-Controller (MVC) Architecture: Embracing the MVC design pattern, the application segregates into Model, View, and Controller components. This division streamlines codebase maintenance, fostering adaptability and scalability.
@@ -10,7 +10,7 @@ This Spring Boot application incorporates various software development principle
 
 4/ Repository Pattern: Employing a repository layer, the app abstracts data access logic from the service layer. This segregation of concerns simplifies unit testing and enhances maintainability.
 
-II. Code Structure
+II. Code Structure <br>
 Model Package:
 Contains entity classes representing the core domain model.
 
@@ -25,7 +25,8 @@ Houses classes that handle user requests and responses, managing views and overa
 
 ![image](https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/2376c6a6-16da-49da-ab58-98befec89bf7)
 
-III. Step to run on a local machine **Step 1: Set up database (In my case, I use MySQL and MySQL workbench) **
+III. Step to run on a local machine <br>
+**Step 1: Set up database (In my case, I use MySQL and MySQL workbench) ** <br>
 ![image](https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/1cb61315-04a4-4cc1-bb20-5078ee2d78af)
 
 Relational Schema:

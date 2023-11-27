@@ -1,3 +1,5 @@
+
+https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/68a5e4d6-7fef-4cce-b0bc-7229b58e3307
 I. Brief explanation
 This Spring Boot application incorporates various software development principles, patterns, and practices, exemplifying:
 
@@ -32,5 +34,5 @@ Relational Schema:
 
 **Step 2: Clone the project from my github and run the Spring boot app (the database need to have some of the product included)**
 **Demo App**
-Uploading bandicam 2023-11-27 17-53-57-970.mp4…
+https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/eaec4b86-58d6-4e18-bec5-4a7c1b36135d
 

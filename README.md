@@ -33,5 +33,6 @@ Relational Schema:
 
 **Step 2: Clone the project from my github and run the Spring boot app (the database need to have some of the product included)**
 **Demo App**
-https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/eaec4b86-58d6-4e18-bec5-4a7c1b36135d
+
+https://github.com/LTP6220/MidtermJavaTechnology/assets/116489939/28409d8c-b910-4147-9707-fdf385582f34
 
